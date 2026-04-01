@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "ffdfbefa58d15b70",
+    "type": "split",
+    "children": [
+      {
+        "id": "992e7cf4ef535798",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c952d59b63a49455",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6d0b4b27cd160b64",
+    "type": "split",
+    "children": [
+      {
+        "id": "64211a06f93b3a64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44bfb82c4086dbcf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "356144bee38beda9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "af97bec8f0dabd73",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b6f9d74597178a8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "e947f35efc0d579e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45650d53764199ea",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos"
+            }
+          },
+          {
+            "id": "bb1e23658e20d487",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Adam Smith.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Adam Smith"
+            }
+          },
+          {
+            "id": "f416691ea62bc2dd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "710f36ab034d69d2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "5a3be7ad4fe4fa6c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Adam Smith.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Adam Smith"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "c952d59b63a49455",
+  "lastOpenFiles": [
+    "Economia/Conceitos/Valor objetivo e valor subjetivo.md",
+    "Economia/Autores/Carl Menger.md",
+    "Teoria subjetiva do valor.md",
+    "Economia/Template Conceito.md",
+    "Economia/Template Autores.md",
+    "Economia/Template Comparação.md",
+    "Economia/Conceitos/Valor de Uso e Valor de Troca.md",
+    "Economia/Conceitos/Livre mercado.md",
+    "Economia/Conceitos/Economia Comportamental.md",
+    "Economia/Conceitos/Divisão do trabalho.md",
+    "Economia/Conceitos/Aversão à perda.md",
+    "Economia/Autores/Herbert Simon.md",
+    "Economia/Autores/Adam Smith.md",
+    "Atrigo 150 Anos Marginalismo.canvas",
+    "Economia/Correntes/Marginalismo.md",
+    "Economia/Correntes",
+    "Economia/Conceitos/Preço psicológico.md",
+    "Economia/Conceitos/Framing.md",
+    "Economia 1/Conceitos/Valor objetivo e valor subjetivo.md",
+    "Economia 1/Conceitos/Valor de Uso e Valor de Troca.md",
+    "Economia 1/Conceitos/Racionalidade limitada.md",
+    "Economia 1/Conceitos/Preço psicológico.md",
+    "Economia 1/Conceitos/Paradoxo da água e dos diamantes.md",
+    "Economia 1/Conceitos/Nudge.md",
+    "Economia 1/Conceitos/Monopólio.md",
+    "Economia 1/Conceitos/Marginalismo.md",
+    "Economia 1/Conceitos/Livre mercado.md",
+    "Economia 1/Conceitos/Economia Comportamental.md",
+    "Economia 1/Conceitos",
+    "Economia 1/Autores",
+    "Economia 1",
+    "Economia/Conceitos",
+    "Economia/Autores",
+    "Economia"
+  ]
+}

@@ -1,2 +1,0 @@
-# Cérebro
-Notas do Obsidian 
