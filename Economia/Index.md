@@ -4,6 +4,9 @@
     
 - [[Herbert Simon]]
     
+- [[Carl Menger]]
+
+
 
 ## Economia clássica e temas relacionados
 
