@@ -1,7 +1,7 @@
 
 O debate entre **valor objetivo** e **valor subjetivo** busca explicar de onde vem o valor econômico de um bem.
 
-Esse tema se relaciona com discussões presentes em **[[Adam Smith]]**, com a diferença entre **[[Valor de uso e valor de troca]]** e com o **[[Paradoxo da água e dos diamantes]]**.
+Esse tema se relaciona com discussões presentes em **[[Adam Smith]]**, com a diferença entre **[[Valor de uso e valor de troca]]**, com o **[[Paradoxo da água e dos diamantes]]** e com autores como **[[Carl Menger]]**.
 
 ## Valor objetivo
 
@@ -90,9 +90,9 @@ Seus estudos serviram de base para o desenvolvimento de teorias posteriores, inc
 
 ## Relação com o marginalismo
 
-O **[[Marginalismo]]** fortaleceu a explicação subjetiva do valor ao defender que o valor de um bem depende da utilidade de uma unidade adicional desse bem, considerando sua escassez e a situação do indivíduo.
+O **[[Marginalismo]]** fortaleceu a explicação subjetiva do valor ao defender que o valor de um bem depende da **[[Utilidade marginal]]** de uma unidade adicional desse bem, considerando sua escassez e a situação do indivíduo.
 
-Assim, o marginalismo ajudou a consolidar a visão de que o valor não está apenas no objeto em si, mas também na forma como ele é avaliado.
+Assim, o marginalismo ajudou a consolidar a visão de que o valor não está apenas no objeto em si, mas também na forma como ele é avaliado. Essa linha de explicação aparece com força na obra de **[[Carl Menger]]**.
 
 ## Importância
 
@@ -113,8 +113,12 @@ Esse debate ajuda a compreender:
 
 - [[Adam Smith]]
     
+- [[Carl Menger]]
+    
 - [[Valor de uso e valor de troca]]
     
 - [[Paradoxo da água e dos diamantes]]
     
 - [[Marginalismo]]
+
+- [[Utilidade marginal]]

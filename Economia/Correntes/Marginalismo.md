@@ -1,11 +1,11 @@
 
 O **marginalismo** é uma corrente do pensamento econômico do século XIX que ajudou a reformular a teoria do valor. Seu ponto central é que o valor de um bem não depende apenas do trabalho ou do custo de produção, mas também da **utilidade que uma unidade adicional desse bem tem para o indivíduo**.
 
-Essa corrente se relaciona com debates iniciados em **[[Adam Smith]]**, com a distinção entre **[[Valor de uso e valor de troca]]** e com o **[[Paradoxo da água e dos diamantes]]**.
+Essa corrente se relaciona com debates iniciados em **[[Adam Smith]]**, com a distinção entre **[[Valor de uso e valor de troca]]**, com o **[[Paradoxo da água e dos diamantes]]** e com autores como **[[Carl Menger]]**.
 
 ## Ideia central
 
-A principal ideia do marginalismo é a de **utilidade marginal**.
+A principal ideia do marginalismo é a de **[[Utilidade marginal]]**.
 
 A utilidade marginal é a utilidade de **mais uma unidade** de um bem.
 
@@ -93,12 +93,16 @@ O marginalismo não nega totalmente os debates anteriores, mas desenvolve e refo
     
 - **Século XVIII**: **[[Adam Smith]]** distingue **[[Valor de uso e valor de troca]]**.
     
-- **Século XIX**: o **marginalismo** aprofunda a explicação subjetiva do valor por meio da utilidade marginal.
+- **Século XIX**: o **marginalismo** aprofunda a explicação subjetiva do valor por meio da utilidade marginal, com destaque para autores como **[[Carl Menger]]**.
     
 
 ## Conceitos relacionados
 
 - [[Adam Smith]]
+    
+- [[Carl Menger]]
+    
+- [[Utilidade marginal]]
     
 - [[Valor de uso e valor de troca]]
     

@@ -3,8 +3,8 @@
   "search": "",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
-  "showOrphans": true,
+  "hideUnresolved": true,
+  "showOrphans": false,
   "collapse-color-groups": true,
   "colorGroups": [
     {
@@ -13,18 +13,32 @@
         "a": 1,
         "rgb": 4345855
       }
+    },
+    {
+      "query": "path:Economia/Conceitos  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:Economia/Correntes  ",
+      "color": {
+        "a": 1,
+        "rgb": 10048224
+      }
     }
   ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "nodeSizeMultiplier": 1.00472727272727,
+  "lineSizeMultiplier": 0.795272727272727,
   "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "centerStrength": 0.346048237476809,
+  "repelStrength": 10.0571428571429,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.7132754626224381,
+  "linkDistance": 204,
+  "scale": 0.7132754626224383,
   "close": true
 }

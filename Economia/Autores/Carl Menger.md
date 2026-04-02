@@ -9,36 +9,40 @@ Resumo curto sobre:
     
 - **área de atuação:** economia, com foco em **teoria do valor, preços e método das ciências econômicas**.
     
-- **contexto histórico:** atuou no período em que a economia estava rompendo com a tradição clássica e consolidando a **Revolução Marginalista** no fim do século XIX. Sua obra Principles of Economics foi publicada em **1871**, no mesmo ano em que Jevons lançou trabalho semelhante.[
+- **contexto histórico:** atuou no período em que a economia estava rompendo com a tradição clássica e consolidando a **Revolução Marginalista** no fim do século XIX. Sua obra *Principles of Economics* foi publicada em **1871**, no mesmo ano em que Jevons lançou um trabalho semelhante.
     
-- **importância geral:** fundou a Escola Austríaca e influenciou decisivamente o desenvolvimento da microeconomia e da teoria subjetiva do valor.
+- **importância geral:** fundou a **[[Escola Austríaca]]** e influenciou decisivamente o desenvolvimento da microeconomia e da teoria subjetiva do valor.
     
 
 ## Ideias principais
 
-- **[[Valor objetivo e valor subjetivo|Teoria subjetiva do valor|]]**
+- **[[Valor objetivo e valor subjetivo|Teoria subjetiva do valor]]**
     
-- **utilidade marginal**
+- **[[Utilidade marginal]]**
     
-- **individualismo metodológico e análise dos bens a partir das necessidades humanas** 
+- **análise dos bens a partir das necessidades humanas e da escolha individual**
 
 ## Contribuições para a economia
 
 A principal contribuição de Menger foi mostrar que o valor de um bem **não está no bem em si**, nem é determinado apenas pelo trabalho empregado para produzi-lo. Para ele, um bem vale porque atende necessidades humanas, e seu valor depende da importância que o indivíduo atribui à **unidade marginal** disponível daquele bem.
 
-Essa formulação ajudou a explicar o chamado **paradoxo da água e do diamante**. A água é mais útil para a vida, mas como normalmente é abundante, sua utilidade marginal tende a ser menor; já o diamante, por ser mais escasso, pode ter utilidade marginal maior para quem o deseja.
+Essa formulação ajudou a explicar o **[[Paradoxo da água e dos diamantes]]**. A água é mais útil para a vida, mas como normalmente é abundante, sua utilidade marginal tende a ser menor; já o diamante, por ser mais escasso, pode ter utilidade marginal maior para quem o deseja.
 
-Menger também foi importante por defender que o valor dos **fatores de produção** deriva do valor dos **bens finais** desejados pelos consumidores. Isso inverte a lógica clássica segundo a qual o custo determinaria diretamente o valor do produto.
+Menger também foi importante por defender que o valor dos **fatores de produção** deriva do valor dos **bens finais** desejados pelos consumidores. Isso inverte a lógica clássica segundo a qual o custo determinaria diretamente o valor do produto e se conecta ao debate entre **[[Valor de uso e valor de troca]]** e **[[Valor objetivo e valor subjetivo]]**.
 
-Além disso, sua obra ajudou a consolidar a **Escola Austríaca**, influenciando autores como Ludwig von Mises e Friedrich Hayek. 
+Além disso, sua obra ajudou a consolidar a **[[Escola Austríaca]]**, influenciando autores como Ludwig von Mises e Friedrich Hayek, e teve papel central no desenvolvimento do **[[Marginalismo]]**.
 
 ## Conceitos relacionados
 
 - [[Utilidade marginal]]
     
-- [[Teoria subjetiva do valor]]
+- [[Valor objetivo e valor subjetivo]]
     
 - [[Escola Austríaca]]
+
+- [[Marginalismo]]
+
+- [[Paradoxo da água e dos diamantes]]
     
 
 ## Importância
